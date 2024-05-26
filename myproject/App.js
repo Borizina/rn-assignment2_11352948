@@ -13,12 +13,12 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#008080',// Change background to Teal
+    backgroundColor: '#008080',// Change background color to Teal
     alignItems: 'center',
     justifyContent: 'center',
   },
   text: {
-    fontSize: 20, // Increase font size to 20
+    fontSize: 24, // Increase font size to 24
   },
   boldText: {
     fontWeight: 'bold', // Make text name bold
